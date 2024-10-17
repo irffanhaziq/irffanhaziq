@@ -11,7 +11,7 @@ I'm a passionate software developer and data science who loves creating innovati
 
 
 ### 🌟 Featured Projects
-- [Project 1](https://github.com/yourusername/project1): A web application for tracking your tasks.
+- [Project 1](https://github.com/irffanhaziq/MovieLens): A web application for tracking your tasks.
 - [Project 2](https://github.com/yourusername/project2): A machine learning model for predicting house prices.
 
 ### 🤝 Open Source Contributions
