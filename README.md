@@ -1,10 +1,14 @@
-# Hi there! 👋 I'm Irfan Haziq
-I'm a passionate software developer who loves creating innovative solutions. Currently exploring the world of web development and machine learning.
+# Hi there! 👋 I'm Irffan Haziq
+I'm a passionate software developer and data science who loves creating innovative solutions. Currently exploring the world of web development and machine learning.
 
 ### 💻 Skills
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
+- ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 
 ### 🌟 Featured Projects
 - [Project 1](https://github.com/yourusername/project1): A web application for tracking your tasks.
