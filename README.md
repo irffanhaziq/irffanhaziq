@@ -40,5 +40,5 @@ I'm a passionate software developer and data science who loves creating innovati
 - [Personal Website](https://yourwebsite.com)
 
 ### 🎉 Fun Facts
-- I love hiking and exploring new places!
-- A huge fan of science fiction books and movies.
+- I may not be a coder, but I'm passionate about creating unique and innovative solutions that stand out. I love to think differently and bring fresh ideas to life!
+- A huge fan of fiction books and 'galau' song.
