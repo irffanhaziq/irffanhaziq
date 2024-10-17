@@ -12,7 +12,7 @@ I'm a passionate software developer and data science who loves creating innovati
 
 ### 🌟 Featured Projects
 - [Project 1](https://github.com/irffanhaziq/MovieLens): A Cassandra Query Language on MovieLens Dataset.
-- [Project 2](https://github.com/yourusername/project2): A machine learning model for predicting house prices.
+- [Project 2](https://github.com/irffanhaziq/Bank_Marketing_Camping): An analysis cost and the revenue for the bank marketing camping
 
 ### 🤝 Open Source Contributions
 - [Awesome Project](https://github.com/example): Contributed to documentation and feature enhancements.
